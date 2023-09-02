@@ -1,1 +1,1 @@
-# common-disease-in-Doctor-s-prescription
+# common-disease-in-Doctors-prescription
